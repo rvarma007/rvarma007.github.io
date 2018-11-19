@@ -1,5 +1,5 @@
 {"version_code":452574,"content":"
-<p>Update 2.3</p>
+<p>RWhatsApp 2.3</p>
 
 <li> [Exclusive] Themes!</li>
 <li> [Exclusive] Hide Name in Status Section!</li>
