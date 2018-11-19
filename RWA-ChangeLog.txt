@@ -1,0 +1,20 @@
+{"version_code":452574,"content":"
+<p>Update 2.3</p>
+
+<li> [Exclusive] Themes!</li>
+<li> [Exclusive] Hide Name in Status Section!</li>
+<li> [Enabled] Mark as Read!</li>
+<li> [NEW] Re-Designed UI!</li>
+<li> [Increased] Pin Chats to Unlimited instead of 3!</li>
+<li> [Re-Added] Hide Profile Pic!</li>
+<li> [Re-Added] Read More...!</li>
+<li> [Added] Hide Call Button!</li>
+<li> [Added] Online Status in Main Screen!</li>
+<li> [Added] Hide Message in Home Screen!</li>
+<li> [Added] Call Over Sim/Text Message!</li>
+<li> [Added] Facebook Emoji's!</li>
+<li> [Added] WhatsApp Logs!</li>
+
+
+","url":"https://rwhatsappmods.blogspot.com"
+}
