@@ -1,4 +1,4 @@
-{"version_code":452574,"content":"
+{"version_code":452403,"content":"
 <p>RWhatsApp 2.3</p>
 
 <li> [Exclusive] Themes!</li>
@@ -14,7 +14,6 @@
 <li> [Added] Call Over Sim/Text Message!</li>
 <li> [Added] Facebook Emoji's!</li>
 <li> [Added] WhatsApp Logs!</li>
-
 
 ","url":"https://rwhatsappmods.blogspot.com"
 }
