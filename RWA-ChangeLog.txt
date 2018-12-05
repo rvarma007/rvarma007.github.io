@@ -1,19 +1,17 @@
-{"version_code":452403,"content":"
-<p>RWhatsApp 2.3</p>
+{"version_code":452505,"content":"
+<p>RWhatsApp 2.4</p>
 
-<li> [Exclusive] Themes!</li>
-<li> [Exclusive] Hide Name in Status Section!</li>
-<li> [Enabled] Mark as Read!</li>
-<li> [NEW] Re-Designed UI!</li>
-<li> [Increased] Pin Chats to Unlimited instead of 3!</li>
-<li> [Re-Added] Hide Profile Pic!</li>
-<li> [Re-Added] Read More...!</li>
-<li> [Added] Hide Call Button!</li>
-<li> [Added] Online Status in Main Screen!</li>
-<li> [Added] Hide Message in Home Screen!</li>
-<li> [Added] Call Over Sim/Text Message!</li>
-<li> [Added] Facebook Emoji's!</li>
-<li> [Added] WhatsApp Logs!</li>
+<li> [Exclusive] Message Bomber!</li>
+<li> [Exclusive] Status Video Splitter!</li>
+<li> [Exclusive] Option To SPY on Others WhatsApp Account!</li>
+<li> [Added] Blue Tick after Reply!</li>
+<li> [Added] Share Audio/Music Upto 2GB instead of 16MB!</li>
+<li> [Added] Increased Pin Chats to Unlimited instead of 3!</li>
+<li> [Added] Increased Image/Video Sharing Limit to Unlimited!</li>
+<li> [Fixed-Bugs] Media Mods!</li>
+<li> [Enabled] Stickers By Default!</li>
+<li> [Enabled] All Hidden Features!</li>
+<li> [Added] Hide Call Button in Chat!</li>
 
 ","url":"https://rwhatsappmods.blogspot.com"
 }
