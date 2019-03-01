@@ -1,17 +1,23 @@
 {"version_code":452505,"content":"
-<p>RWhatsApp 2.4</p>
+<p>RWhatsApp 2.5</p>
 
-<li> [Exclusive] Message Bomber!</li>
-<li> [Exclusive] Status Video Splitter!</li>
-<li> [Exclusive] Option To SPY on Others WhatsApp Account!</li>
-<li> [Added] Blue Tick after Reply!</li>
-<li> [Added] Share Audio/Music Upto 2GB instead of 16MB!</li>
-<li> [Added] Increased Pin Chats to Unlimited instead of 3!</li>
-<li> [Added] Increased Image/Video Sharing Limit to Unlimited!</li>
-<li> [Fixed-Bugs] Media Mods!</li>
-<li> [Enabled] Stickers By Default!</li>
-<li> [Enabled] All Hidden Features!</li>
-<li> [Added] Hide Call Button in Chat!</li>
+<li> Exclusive NEW Home UI Like Instagram</li>
+<li> Enabled Fingerprint By Default</li>
+<li> Added Enable/Disable DND Mode</li>
+<li> Added Video Splitter for Status</li>
+<li> Added Option to Enable/Disable Forward Tag</li>
+<li> Added Increased Message Forward Limit to Unlimited</li>
+<li> Added Multi Chats(Works Only on Android 5.0 and Above)</li>
+<li> Added Anti-Expiry for 2 year</li>
+<li> Added Increased Character Limit to Unlimited</li>
+<li> Added Increased Pin Chat Limit to Unlimited</li>
+<li> Added Message Bomber</li>
+<li> Added Swipe Right to Left to Exit Chat</li>
+<li> Added Hide Muted Status</li>
+<li> Added Hide Viewed Status</li>
+<li> Added Hide Recent Status</li>
+<li> Added Ability to Save Status/Story(Click on 3 Dot Menu to Download)</li>
+<li> Added Ability to Copy Text Status(Click on 3 Dot Menu to Copy)</li>
 
 ","url":"https://rwhatsappmods.blogspot.com"
 }
