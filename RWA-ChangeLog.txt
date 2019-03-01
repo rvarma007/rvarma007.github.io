@@ -8,7 +8,7 @@
 <li> Added Option to Enable/Disable Forward Tag</li>
 <li> Added Increased Message Forward Limit to Unlimited</li>
 <li> Added Multi Chats(Works Only on Android 5.0 and Above)</li>
-<li> Added Anti-Expiry for 2 year</li>
+<li> Added Anti-Expiry for 2 years</li>
 <li> Added Increased Character Limit to Unlimited</li>
 <li> Added Increased Pin Chat Limit to Unlimited</li>
 <li> Added Message Bomber</li>
