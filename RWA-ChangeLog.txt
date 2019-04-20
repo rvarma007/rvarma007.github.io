@@ -1,9 +1,35 @@
-{"version_code":452670,"content":"
-<p>RWhatsApp 2.6</p>
+{"version_code":452680,"content":"
+<p>RWhatsApp 2.7</p>
 
-<li> [Bugs Fixed] Some Bugs Fixed</li>
-<li> [Added] Option To Enable/Disable Bottom Navigation Bar</li>
-<li> [Added] Option To Enable/Disable FAB</li>
+<li> Exclusive Anti-Delete Story</li>
+<li> Exclusive Know Which Message Deleted (🚫 Next to Message)</li>
+<li> Exclusive Custom Online toast</li> Enable for specific people (find it in Contact Profile)</li>
+<li> Exclusive Themes(Fully Customizable)</li>
+<li> Added New Settings UI</li>
+<li> Added Hide Chat - Hike Style</li>
+<li> Added Hide Chat Options: Notifications, Sound, Shake WhatsApp Name</li>
+<li> Added Hide Chat Change Fingerprint/PIN/Pattern Option</li>
+<li> Added Option to Pin Group Description to Chat (Chat 3-Dot Menu > Group Description)</li>
+<li> Added Change Deleted Message Icon Color</li>
+<li> Added Anti-Delete for Messages and Status By Default Enabled.</li>
+<li> Added 2 Bottom Navigation Bar Styles</li>
+<li> Added 3 Home Styles(Cards)</li>
+<li> Added Option To Change Color of Attachment Icons/Text etc.</li>
+<li> Added Hide Media from Gallery</li>
+<li> Added RWhatsApp Widget</li>
+<li> Added RWhatsApp Lock(Pattern/PIN/Fingerprint)</li>
+<li> Added Chat Lock(Pattern/PIN/Fingerprint)</li>
+<li> Added Option To Change Fonts Styles</li>
+<li> Added Option To Upload Status Upto 1 Hour instead of 30 Seconds</li>
+<li> Added Option To Change Conversation Toolbar Styles</li>
+<li> Added Option To Change Conversation Entry Styles</li>
+<li> Added Hide Contact Name in Conversation</li>
+<li> Added Hide Contact Picture in Conversation</li>
+<li> Added Remove 'Read More...'</li>
+<li> Added Option To Change Text Size</li>
+<li> Added Option To Change Chat Rows Size</li>
+<li> Added Option To Set Custom Wallpaper per Contact</li>
+<li> Added Option to Put Contact Picture Inside/Outside Bubble</li>
 
-","url":"https://rwhatsappmods.blogspot.com"
+","url":"http://www.rwhatsappmods.tk"
 }
