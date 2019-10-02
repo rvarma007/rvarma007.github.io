@@ -3,89 +3,136 @@
     "themes": [
 
         {
-            "themeName" : "Material Green",
-            "themeUrl"  : "https://github.com/DeltalabsStudio/api/raw/master/gb/deluxe.zip",
-            "themeBy"   : "Gaurav GS"
-        },
-        {
-            "themeName" : "Material White n Green",
-            "themeUrl"  : "https://github.com/DeltalabsStudio/api/raw/master/gb/deluxe.zip",
-            "themeBy"   : "Gaurav GS"
-        },
-        {
-            "themeName" : "Sandeep Animal",
-            "themeUrl"  : "https://github.com/DeltalabsStudio/api/raw/master/gb/deluxe.zip",
-            "themeBy"   : "Sandeep"
-        },
-        {
-            "themeName" : "Google+",
-            "themeUrl"  : "https://github.com/DeltalabsStudio/api/raw/master/gb/deluxe.zip",
-            "themeBy"   : "Gaurav GS"
-        },
-        {
-            "themeName" : "Hangout Dark Green",
-            "themeUrl"  : "https://github.com/DeltalabsStudio/api/raw/master/gb/deluxe.zip",
+            "themeName" : "YoGoogle",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoGoogle.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoGoogle_w.jpg",
             "themeBy"   : "Ravi Varma"
         },
         {
-            "themeName" : "Telegram",
-            "themeUrl"  : "https://github.com/DeltalabsStudio/api/raw/master/gb/deluxe.zip",
-            "themeBy"   : "Ravi Varma"
-        },
-        {
-            "themeName" : "Facebook Messenger",
-            "themeUrl"  : "https://github.com/DeltalabsStudio/api/raw/master/gb/deluxe.zip",
-            "themeBy"   : "Ravi Varma"
-        },
-        {
-            "themeName" : "Seamless",
-            "themeUrl"  : "https://github.com/DeltalabsStudio/api/raw/master/gb/deluxe.zip",
+            "themeName" : "YoHangoutsDark",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoHangoutsDark.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoHangoutsDark_w.jpg",
             "themeBy"   : "Gaurav GS"
         },
         {
-            "themeName" : "MaterialMe",
-            "themeUrl"  : "https://github.com/DeltalabsStudio/api/raw/master/gb/deluxe.zip",
+            "themeName" : "YoGoogle",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoGoogle.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoGoogle_w.jpg",
             "themeBy"   : "Ravi Varma"
         },
         {
-            "themeName" : "Chintamani",
-            "themeUrl"  : "https://github.com/DeltalabsStudio/api/raw/master/gb/deluxe.zip",
-            "themeBy"   : "Bhushan Mhatre"
+            "themeName" : "YoHangoutsDark",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoHangoutsDark.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoHangoutsDark_w.jpg",
+            "themeBy"   : "Gaurav GS"
         },
         {
-            "themeName" : "Xmas Green",
-            "themeUrl"  : "https://github.com/DeltalabsStudio/api/raw/master/gb/deluxe.zip",
+            "themeName" : "YoGoogle",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoGoogle.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoGoogle_w.jpg",
             "themeBy"   : "Ravi Varma"
         },
         {
-            "themeName" : "Color Mash",
-            "themeUrl"  : "https://github.com/DeltalabsStudio/api/raw/master/gb/deluxe.zip",
+            "themeName" : "YoHangoutsDark",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoHangoutsDark.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoHangoutsDark_w.jpg",
             "themeBy"   : "Gaurav GS"
         },
         {
-            "themeName" : "Material Teal",
-            "themeUrl"  : "https://github.com/DeltalabsStudio/api/raw/master/gb/deluxe.zip",
-            "themeBy"   : "Gaurav GS"
-        },
-        {
-            "themeName" : "MagicTeal",
-            "themeUrl"  : "https://github.com/DeltalabsStudio/api/raw/master/gb/deluxe.zip",
+            "themeName" : "YoGoogle",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoGoogle.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoGoogle_w.jpg",
             "themeBy"   : "Ravi Varma"
         },
         {
-            "themeName" : "Elegant",
-            "themeUrl"  : "https://github.com/DeltalabsStudio/api/raw/master/gb/deluxe.zip",
+            "themeName" : "YoHangoutsDark",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoHangoutsDark.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoHangoutsDark_w.jpg",
             "themeBy"   : "Gaurav GS"
         },
         {
-            "themeName" : "Twitter Blue",
-            "themeUrl"  : "https://github.com/DeltalabsStudio/api/raw/master/gb/deluxe.zip",
+            "themeName" : "YoGoogle",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoGoogle.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoGoogle_w.jpg",
+            "themeBy"   : "Ravi Varma"
+        },
+        {
+            "themeName" : "YoHangoutsDark",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoHangoutsDark.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoHangoutsDark_w.jpg",
             "themeBy"   : "Gaurav GS"
         },
         {
-            "themeName" : "Bluish",
-            "themeUrl"  : "https://github.com/DeltalabsStudio/api/raw/master/gb/deluxe.zip",
-            "themeBy"   : "Bhushan Mhatre"
+            "themeName" : "YoGoogle",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoGoogle.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoGoogle_w.jpg",
+            "themeBy"   : "Ravi Varma"
+        },
+        {
+            "themeName" : "YoHangoutsDark",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoHangoutsDark.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoHangoutsDark_w.jpg",
+            "themeBy"   : "Gaurav GS"
+        },
+        {
+            "themeName" : "YoGoogle",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoGoogle.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoGoogle_w.jpg",
+            "themeBy"   : "Ravi Varma"
+        },
+        {
+            "themeName" : "YoHangoutsDark",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoHangoutsDark.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoHangoutsDark_w.jpg",
+            "themeBy"   : "Gaurav GS"
+        },
+        {
+            "themeName" : "YoGoogle",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoGoogle.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoGoogle_w.jpg",
+            "themeBy"   : "Ravi Varma"
+        },
+        {
+            "themeName" : "YoHangoutsDark",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoHangoutsDark.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoHangoutsDark_w.jpg",
+            "themeBy"   : "Gaurav GS"
+        },
+        {
+            "themeName" : "YoGoogle",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoGoogle.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoGoogle_w.jpg",
+            "themeBy"   : "Ravi Varma"
+        },
+        {
+            "themeName" : "YoHangoutsDark",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoHangoutsDark.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoHangoutsDark_w.jpg",
+            "themeBy"   : "Gaurav GS"
+        },
+        {
+            "themeName" : "YoGoogle",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoGoogle.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoGoogle_w.jpg",
+            "themeBy"   : "Ravi Varma"
+        },
+        {
+            "themeName" : "YoHangoutsDark",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoHangoutsDark.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoHangoutsDark_w.jpg",
+            "themeBy"   : "Gaurav GS"
+        },
+        {
+            "themeName" : "YoGoogle",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoGoogle.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoGoogle_w.jpg",
+            "themeBy"   : "Ravi Varma"
+        },
+        {
+            "themeName" : "YoHangoutsDark",
+            "themeXml"  : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/xmls/YoHangoutsDark.xml",
+            "themeWall" : "https://raw.githubusercontent.com/rvarma007/rvarma007.github.io/master/walls/YoHangoutsDark_w.jpg",
+            "themeBy"   : "Gaurav GS"
         }
 
     ]
