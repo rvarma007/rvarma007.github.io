@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="Hide_div" value="true" />
+    <int name="BGColor" value="14435378" />
+    <string name="tick_style">circles</string>
+    <boolean name="my_name" value="true" />
+    <int name="ModConPickColor" value="-2407369" />
+    <int name="ModFabPressedColor" value="-2407369" />
+    <int name="ModDarkConPickColor" value="-3851991" />
+    <int name="ModConColor" value="-2407369" />
+    <boolean name="Pop_Heds" value="false" />
+    <int name="ModConDarkColor" value="-3851991" />
+    <int name="ModChatBtnColor" value="-3851992" />
+    <string name="ConvoEntry">2</string>
+    <boolean name="PicProf" value="false" />
+    <int name="ModFabNormalColor" value="-2407369" />
+    <boolean name="log_show_name_check" value="true" />
+    <int name="ModChatGStatusT" value="-13619152" />
+    <string name="convostyle">1</string>
+    <int name="text_size_pick" value="15" />
+    <int name="ModChatDarkColor" value="-3851991" />
+    <int name="ModChatLeftBubble" value="-1" />
+    <int name="ModChatRightBubble" value="-1" />
+    <string name="HomeEntry">waca</string>
+    <boolean name="Conv_call_btn" value="true" />
+    <string name="bubble_style">materialized</string>
+    <int name="main_text" value="15" />
+    <int name="ModChatColor" value="-2407369" />
+    <boolean name="hide_fab" value="false" />
+    <int name="ModChatGStatusB" value="-1" />
+    <int name="square_photo_ratio_picker" value="100" />
+</map>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="ModChatEntry" value="0" />
+    <int name="ModChatLeftBubble" value="-12434878" />
+    <int name="BGColor" value="-13619152" />
+    <boolean name="yo_hideinfo" value="false" />
+    <string name="tick_style">eclipsis</string>
+    <int name="ModChatDarkColor" value="-15693746" />
+    <int name="ModFabNormalColor" value="-15753896" />
+    <int name="ModConBackColor" value="-14606047" />
+    <boolean name="extended_notifi" value="true" />
+    <boolean name="my_name" value="true" />
+    <int name="ModConDarkColor" value="-15693746" />
+    <int name="ModConColor" value="-15753896" />
+    <boolean name="TxtSelect" value="true" />
+    <int name="ModChatRightBubble" value="-15753896" />
+    <int name="ConvoBack" value="-14606047" />
+    <int name="ModChatTextColor" value="-3684409" />
+    <boolean name="my_statusd" value="false" />
+    <string name="ConvoEntry">2</string>
+    <boolean name="enable_old" value="false" />
+    <int name="ModChatBubbleText" value="-1" />
+    <boolean name="PicProf" value="true" />
+    <int name="ModlastseenColor" value="-14124695" />
+    <int name="ModConTextColor" value="-1513240" />
+    <string name="convostyle">3</string>
+    <int name="text_size_pick" value="15" />
+    <boolean name="Up_size_limit" value="true" />
+    <int name="date_left_color" value="-1" />
+    <int name="ModChatEmojiColor" value="-8355712" />
+    <int name="ModDarkConPickColor" value="-15693746" />
+    <string name="HomeEntry">telegram</string>
+    <int name="ModChaSendColor" value="-8355712" />
+    <boolean name="Conv_call_btn" value="true" />
+    <string name="bubble_style">hang</string>
+    <int name="main_text" value="15" />
+    <int name="ModOnlineColor" value="-14124695" />
+    <int name="ModConPickColor" value="-15753896" />
+    <int name="ModChatBubbleTextLeft" value="-1" />
+    <int name="HomeBarText" value="-1" />
+    <int name="ModChatBtnColor" value="-8355712" />
+    <int name="date_right_color" value="-1" />
+    <boolean name="Img_share_limit" value="true" />
+    <boolean name="hide_fab" value="true" />
+    <int name="ModConPickBackColor" value="-14606047" />
+    <boolean name="AttBt" value="false" />
+    <int name="ModChatColor" value="-15753896" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <boolean name="Audio_sensor" value="false" />
+</map>
