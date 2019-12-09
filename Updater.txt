@@ -1,1 +1,1 @@
-{'ver1':'4', 'ver2':'99', 'ver3':'\nMUST Update.. Your YoWhatsApp is too old!\nCurrent Version is V7.40!\n[Base Update] 2.18.65 and much more!'}
+{'ver1':'4', 'ver2':'99', 'ver3':'\nMUST Update.. Your RWhatsApp is too old!\nCurrent Version is V7.40!\n[Base Update] 2.18.65 and much more!'}
