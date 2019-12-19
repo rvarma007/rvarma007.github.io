@@ -1,6 +1,6 @@
 { 
    "ver1":"1",
-   "ver2":"5",
+   "ver2":"6",
    "ver3":"\nNew Base Updated to 2.19.368!
    \nAntiban 100%!
    \nEnabled all Hidden Features!
