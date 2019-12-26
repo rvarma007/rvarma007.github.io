@@ -1,0 +1,16 @@
+{
+    
+    "users": [
+
+        {
+            "name"      : "Ravi Varma",
+            "deviceId"  : "7923f8ee61e07cd7"
+        },
+        {
+            "name"      : "Ashish Kaushik",
+            "deviceId"  : "7923f8ee61e07ef8"
+        }
+
+    ]
+
+}
