@@ -1,14 +1,16 @@
-[
-   {
-      "name":"Ravi Varma",
-      "deviceId":"862563030280691"
-   },
-   {
-      "name":"Ashish Kaushik",
-      "deviceId":"867974044984225"
-   },
-   {
-      "name":"Android Studio",
-      "deviceId":"358240051111110"
-   }
-]
+{
+   "users":[
+      {
+         "name":"Ravi Varma",
+         "deviceId":"862563030280691"
+      },
+      {
+         "name":"Ashish Kaushik",
+         "deviceId":"867974044984225"
+      },
+      {
+         "name":"Android Studio",
+         "deviceId":"358240051111110"
+      }
+   ]
+}
