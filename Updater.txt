@@ -1,5 +1,8 @@
 { 
    "ver1":"2",
    "ver2":"10",
-   "ver3":"\nMUST Update.. Your RWhatsApp is too old!\nCurrent Version is V2.7!\n[Base Updated] 2.19.370 and much more!"
+   "ver3":"
+   \nMUST Update.. Your RWhatsApp is too old!
+   \nCurrent Version is V2.7!
+   \n[Base Updated] 2.19.370 and much more!"
 }
