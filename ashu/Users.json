@@ -1,53 +1,54 @@
+
 {
-   "version":"4",
+   "prices":["A", "B", "C"],
    "users":[
       {
-         "name":"Ravi Varma",
-         "deviceId":"6d78e87744c00fa1"
+         "name":"Badri Prasad",
+         "expiry":"LIFETIME",
+         "email":"badriprasad304@gmail.com",
+         "deviceId":"ca561d88d1a519cb"
+      },
+      {
+         "name":"MD Sabir",
+         "expiry":"LIFETIME",
+         "email":"singermdsabir@gmail.com",
+         "deviceId":"d18dadd75c39ad5d"
+      },
+      {
+         "name":"Swaroop Haldar",
+         "expiry":"LIFETIME",
+         "email":"mswaroophaldar@gmail.com",
+         "deviceId":"ca2370794d85cc20"
+      },
+      {
+         "name":"Meera Haldar",
+         "expiry":"LIFETIME",
+         "email":"mswaroophaldar@gmail.com",
+         "deviceId":"ae67889e76c8ae87"
+      },
+      {
+         "name":"Dinesh Paswan",
+         "expiry":"LIFETIME",
+         "email":"dineshid00@gmail.com",
+         "deviceId":"fedd26226adef2a5"
+      },
+      {
+         "name":"Dinesh Paswan",
+         "expiry":"LIFETIME",
+         "email":"dineshid00@gmail.com v9",
+         "deviceId":"68f6fee48edda4a5"
       },
       {
          "name":"Ashish Kaushik",
-         "deviceId":"fb71579acc4c8c34"
+         "expiry":"LIFETIME",
+         "email":"ashishkaushik765@gmail.com",
+         "deviceId":"acd58b2c756b4bce"
       },
       {
-         "name":"Arpita Kaur",
-         "deviceId":"9ff367949d70a035"
-      },
-      {
-         "name":"Android Studio",
-         "deviceId":"--c52e77d60677376d"
-      },
-      {
-         "name":"Google Pixel 8.0",
-         "deviceId":"2434978b12b60351"
-      },
-      {
-         "name":"OnePlus 3",
-         "deviceId":"65b26f7f0a927108"
-      },
-
-      {
-         "name":"Rocky Jaiswal",
-         "deviceId":"b368edfa57d5072a"
-      },
-      {
-
-         "name":"Sushil Tiwari",
-
-         "deviceId":"fdedc951e5c03dff"
-
-      },
-      {
-         "name":"Shankar Soni",
-         "deviceId":"e56c00d9972a24c9"
-      },
-      {
-         "name":"Jatin",
-         "deviceId":"ff3768f95f625e3f"
-      },
-      {
-         "name":"Pramod",
-         "deviceId":"3186a3c8808462fc"
+         "name":"Ravi Varma",
+         "expiry":"LIFETIME",
+         "email":"rvarma2221@gmail.com",
+         "deviceId":"6d78e87744c00fa1"
       }
    ]
 }
