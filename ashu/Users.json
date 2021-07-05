@@ -1,12 +1,10 @@
 
 {
    "prices":[
-      {
-         "one_month":"One Month - Rs.300",
-         "six_month":"Six Month - Rs.1200",
-         "twelve_month":"Twelve Month - Rs.2000",
-         "lifetime":"Lifetime - Rs.3000"
-      }
+      "One Month - Rs.300",
+      "Six Month - Rs.1200",
+      "Twelve Month - Rs.2000",
+      "Lifetime - Rs.3000"
     ],
    "users":[
       {
