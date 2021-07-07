@@ -54,6 +54,12 @@
          "expiry":"LIFETIME",
          "email":"rvarma2221@gmail.com",
          "deviceId":"6d78e87744c00fa1"
+      },
+      {
+         "name":"OnePlus Debug",
+         "expiry":"LIFETIME",
+         "email":"oneplus@gmail.com",
+         "deviceId":"f2fdfbea4e104a4b"
       }
    ]
 }
