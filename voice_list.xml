@@ -1,0 +1,2266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<voicelist>
+  <title>Vocalizer TTS for Android voice list</title>
+  <voice name="Laila" countryCode="sau" langCode="ara" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_arw_laila_22_embedded-pro_1-0-5.hdr" sku="arabiclaila">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_ara_sau_laila_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_ara_sau_laila_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_arw_laila_22_embedded-compact_1-0-5.hdr" sku="arabiclaila">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_ara_sau_laila_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_ara_sau_laila_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Maged" countryCode="sau" langCode="ara" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_arw_maged_22_embedded-pro_2-0-2.hdr" sku="arabicmaged">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_ara_sau_maged_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_ara_sau_maged_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_arw_maged_22_embedded-compact_2-0-1.hdr" sku="arabicmaged">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_ara_sau_maged_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_ara_sau_maged_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Tarik" countryCode="sau" langCode="ara" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_arw_tarik_22_embedded-pro_1-1-5.hdr" sku="arabictarik">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_ara_sau_tarik_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_ara_sau_tarik_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_arw_tarik_22_embedded-compact_1-0-0.hdr" sku="arabictarik">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_ara_sau_tarik_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_ara_sau_tarik_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Mariam" countryCode="sau" langCode="ara" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_arg_mariam_22_embedded-pro_1-0-2.hdr" sku="arabicmariam">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_ara_sau_mariam_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_ara_sau_mariam_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_arw_mariam_22_embedded-compact_1-0-2.hdr" sku="arabicmariam">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_ara_sau_mariam_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_ara_sau_mariam_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Dariush" countryCode="irn" langCode="fas" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_fai_dariush_22_embedded-pro_1-0-2.hdr" sku="farsidariush">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_fas_irn_dariush_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_fas_irn_dariush_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_fai_dariush_22_embedded-compact_1-0-2.hdr" sku="farsidariush">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_fas_irn_dariush_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_fas_irn_dariush_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Cem" countryCode="tur" langCode="tur" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_trt_cem_22_embedded-pro_2-0-1.hdr" sku="turkishcem">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_tur_tur_cem_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_tur_tur_cem_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_trt_cem_22_embedded-compact_2-0-1.hdr" sku="turkishcem">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_tur_tur_cem_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_tur_tur_cem_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Yelda" countryCode="tur" langCode="tur" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_trt_yelda_22_embedded-pro_1-0-1.hdr" sku="turkishyelda">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_tur_tur_yelda_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_tur_tur_yelda_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_trt_yelda_22_embedded-compact_1-0-1.hdr" sku="turkishyelda">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_tur_tur_yelda_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_tur_tur_yelda_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Miren" countryCode="esp" langCode="eus" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_bae_miren_22_embedded-pro_1-0-2.hdr" sku="basquemiren">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_eus_esp_miren_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_eus_esp_miren_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_bae_miren_22_embedded-compact_1-0-2.hdr" sku="basquemiren">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_eus_esp_miren_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_eus_esp_miren_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Daria" countryCode="bgr" langCode="bul" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_bgb_daria_22_embedded-pro_2-0-0.hdr" sku="bulgariandaria">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_bul_bgr_daria_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_bul_bgr_daria_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_bgb_daria_22_embedded-compact_1-0-5.hdr" sku="bulgariandaria">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_bul_bgr_daria_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_bul_bgr_daria_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Lana" countryCode="hrv" langCode="hrv" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_hrh_lana_22_embedded-pro_2-0-0.hdr" sku="croatianlana">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_hrv_hrv_lana_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_hrv_hrv_lana_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_hrh_lana_22_embedded-compact_1-0-4.hdr" sku="croatianlana">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_hrv_hrv_lana_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_hrv_hrv_lana_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Iveta" countryCode="cze" langCode="ces" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_czc_iveta_22_embedded-pro_1-1-3.hdr" sku="czechiveta">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_ces_cze_iveta_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_ces_cze_iveta_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_czc_iveta_22_embedded-compact_1-0-5.hdr" sku="czechiveta">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_ces_cze_iveta_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_ces_cze_iveta_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Zuzana" countryCode="cze" langCode="ces" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_czc_zuzana_22_embedded-pro_2-0-0.hdr" sku="czechzuzana">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_ces_cze_zuzana_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_ces_cze_zuzana_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_czc_zuzana_22_embedded-compact_1-0-5.hdr" sku="czechzuzana">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_ces_cze_zuzana_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_ces_cze_zuzana_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Lesya" countryCode="ukr" langCode="ukr" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_uku_lesya_22_embedded-pro_1-0-4.hdr" sku="ukrainianlesya">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_ukr_ukr_lesya_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_ukr_ukr_lesya_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_uku_lesya_22_embedded-compact_1-0-0.hdr" sku="ukrainianlesya">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_ukr_ukr_lesya_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_ukr_ukr_lesya_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Jordi" countryCode="esp" langCode="cat" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_cae_jordi_22_embedded-pro_1-1-1.hdr" sku="catalanjordi">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_cat_esp_jordi_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_cat_esp_jordi_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_cae_jordi_22_embedded-compact_1-1-1.hdr" sku="catalanjordi">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_cat_esp_jordi_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_cat_esp_jordi_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Montserrat" countryCode="esp" langCode="cat" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_cae_montserrat_22_embedded-pro_1-1-1.hdr" sku="catalanmontserrat">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_cat_esp_montserrat_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_cat_esp_montserrat_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_cae_montserrat_22_embedded-compact_1-1-1.hdr" sku="catalanmontserrat">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_cat_esp_montserrat_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_cat_esp_montserrat_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Empar" countryCode="esp" langCode="cat" multilanguage="false" variant="valencia" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_vae_empar_22_embedded-pro_1-0-1.hdr" sku="valencianempar">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_cat_esp_empar_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_cat_esp_empar_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_vae_empar_22_embedded-compact_1-0-0.hdr" sku="valencianempar">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_cat_esp_empar_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_cat_esp_empar_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Magnus" countryCode="dnk" langCode="dan" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_dad_magnus_22_embedded-pro_2-0-0.hdr" sku="danishmagnus">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_dan_dnk_magnus_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_dan_dnk_magnus_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_dad_magnus_22_embedded-compact_1-0-4.hdr" sku="danishmagnus">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_dan_dnk_magnus_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_dan_dnk_magnus_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Sara" countryCode="dnk" langCode="dan" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_dad_sara_22_embedded-pro_2-1-1.hdr" sku="danishsara">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_dan_dnk_sara_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_dan_dnk_sara_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_dad_sara_22_embedded-compact_1-0-4.hdr" sku="danishsara">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_dan_dnk_sara_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_dan_dnk_sara_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Ellen" countryCode="bel" langCode="nld" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_dub_ellen_22_embedded-pro_1-0-3.hdr" sku="belgiandutchellen">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_nld_bel_ellen_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_nld_bel_ellen_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_dub_ellen_22_embedded-compact_1-0-3.hdr" sku="belgiandutchellen">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_nld_bel_ellen_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_nld_bel_ellen_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Claire" countryCode="nld" langCode="nld" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_dun_claire_22_embedded-pro_2-0-1.hdr" sku="dutchclaire">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_nld_nld_claire_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_nld_nld_claire_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_dun_claire_22_embedded-compact_1-1-7.hdr" sku="dutchclaire">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_nld_nld_claire_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_nld_nld_claire_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Xander" countryCode="nld" langCode="nld" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_dun_xander_22_embedded-pro_1-1-5.hdr" sku="dutchxander">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_nld_nld_xander_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_nld_nld_xander_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_dun_xander_22_embedded-compact_1-0-2.hdr" sku="dutchxander">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_nld_nld_xander_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_nld_nld_xander_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Karen" countryCode="aus" langCode="eng" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_ena_karen_22_embedded-pro_1-1-1.hdr" sku="australianengkaren">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_eng_aus_karen_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_eng_aus_karen_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_ena_karen_22_embedded-compact_1-1-1.hdr" sku="australianengkaren">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_eng_aus_karen_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_eng_aus_karen_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Lee" countryCode="aus" langCode="eng" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_ena_lee_22_embedded-pro_1-1-1.hdr" sku="australianenglee">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_eng_aus_lee_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_eng_aus_lee_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_ena_lee_22_embedded-compact_1-1-1.hdr" sku="australianenglee">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_eng_aus_lee_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_eng_aus_lee_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Matilda" countryCode="aus" langCode="eng" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_ena_matilda_22_embedded-pro_1-0-0.hdr" sku="australianengmatilda">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_eng_aus_matilda_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_eng_aus_matilda_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Daniel" countryCode="gbr" langCode="eng" multilanguage="false" variant="" version="3.7.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_eng_daniel_22_embedded-pro_1-1-1.hdr" sku="ukengdaniel">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_gbr_daniel_embedded_pro_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_gbr_daniel_embedded_pro_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_eng_daniel_22_embedded-compact_1-0-2.hdr" sku="ukengdaniel">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_gbr_daniel_embedded_compact_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_gbr_daniel_embedded_compact_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_high" header="ve_pipeline_eng_daniel_22_embedded-high_2-0-1.hdr" sku="ukengdaniel">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_gbr_daniel_embedded_high_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_gbr_daniel_embedded_high_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Kate" countryCode="gbr" langCode="eng" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_eng_kate_22_embedded-pro_1-0-5.hdr" sku="ukengkate">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_eng_gbr_kate_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_eng_gbr_kate_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_eng_kate_22_embedded-compact_1-0-2.hdr" sku="ukengkate">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_eng_gbr_kate_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_eng_gbr_kate_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Stephanie" countryCode="gbr" langCode="eng" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_eng_stephanie_22_embedded-pro_1-0-0.hdr" sku="ukengstephanie">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_eng_gbr_stephanie_embedded_pro_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_eng_gbr_stephanie_embedded_pro_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_eng_stephanie_22_embedded-compact_1-0-0.hdr" sku="ukengstephanie">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_eng_gbr_stephanie_embedded_compact_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_eng_gbr_stephanie_embedded_compact_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Malcolm" countryCode="gbr" langCode="eng" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_eng_malcolm_22_embedded-pro_4-0-0.hdr" sku="ukengmalcolm">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_eng_gbr_malcolm_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_eng_gbr_malcolm_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_eng_malcolm_22_embedded-compact_2-0-0.hdr" sku="ukengmalcolm">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_eng_gbr_malcolm_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_eng_gbr_malcolm_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Oliver" countryCode="gbr" langCode="eng" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_eng_oliver_22_embedded-pro_2-1-1.hdr" sku="ukengoliver">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_eng_gbr_oliver_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_eng_gbr_oliver_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_eng_oliver_22_embedded-compact_1-0-2.hdr" sku="ukengoliver">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_eng_gbr_oliver_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_eng_gbr_oliver_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Serena" countryCode="gbr" langCode="eng" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_eng_serena_22_embedded-pro_4-0-1.hdr" sku="ukengserena">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_eng_gbr_serena_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_eng_gbr_serena_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_eng_serena_22_embedded-compact_1-0-2.hdr" sku="ukengserena">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_eng_gbr_serena_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_eng_gbr_serena_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Sangeeta" countryCode="ind" langCode="eng" multilanguage="false" variant="" version="3.7.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_eni_sangeeta_22_embedded-pro_2-0-0.hdr" sku="indianengsangeeta">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_ind_sangeeta_embedded_pro_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_ind_sangeeta_embedded_pro_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_eni_sangeeta_22_embedded-compact_1-0-0.hdr" sku="indianengsangeeta">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_ind_sangeeta_embedded_compact_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_ind_sangeeta_embedded_compact_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+     <voice_model id="embedded_high" header="ve_pipeline_eni_sangeeta_22_embedded-high_2-0-0.hdr" sku="indianengsangeeta">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_ind_sangeeta_embedded_high_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_ind_sangeeta_embedded_high_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+ </voice>
+  <voice name="Veena" countryCode="ind" langCode="eng" multilanguage="false" variant="" version="3.7.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_eni_veena_22_embedded-pro_3-0-0.hdr" sku="indianengveena">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_ind_veena_embedded_pro_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_ind_veena_embedded_pro_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_eni_veena_22_embedded-compact_1-0-1.hdr" sku="indianengveena">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_ind_veena_embedded_compact_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_ind_veena_embedded_compact_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+      <voice_model id="embedded_high" header="ve_pipeline_eni_veena_22_embedded-high_3-0-0.hdr" sku="indianengveena">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_ind_veena_embedded_high_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_ind_veena_embedded_high_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+</voice>
+  <voice name="Rishi" countryCode="ind" langCode="eng" multilanguage="false" variant="" version="3.7.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_eni_rishi_22_embedded-pro_2-0-2.hdr" sku="indianengrishi">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_ind_rishi_embedded_pro_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_ind_rishi_embedded_pro_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_eni_rishi_22_embedded-compact_2-0-1.hdr" sku="indianengrishi">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_ind_rishi_embedded_compact_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_ind_rishi_embedded_compact_7.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+      <voice_model id="embedded_high" header="ve_pipeline_eni_rishi_22_embedded-high_2-0-2.hdr" sku="indianengrishi">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_ind_rishi_embedded_high_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_ind_rishi_embedded_high_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+</voice>
+  <voice name="Isha-ml" countryCode="ind" langCode="eng" multilanguage="true" variant="" version="3.7.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_eni_isha-ml_22_embedded-pro_2-0-0.hdr" sku="indianengisha">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_ind_isha-ml_embedded_pro_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_ind_isha-ml_embedded_pro_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_high" header="ve_pipeline_eni_isha-ml_22_embedded-high_2-0-0.hdr" sku="indianengisha">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_ind_isha-ml_embedded_high_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_ind_isha-ml_embedded_high_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+</voice>
+  <voice name="Moira" countryCode="irl" langCode="eng" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_ene_moira_22_embedded-pro_1-0-2.hdr" sku="irishengmoira">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_eng_irl_moira_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_eng_irl_moira_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_ene_moira_22_embedded-compact_1-0-2.hdr" sku="irishengmoira">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_eng_irl_moira_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_eng_irl_moira_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Fiona" countryCode="gbr" langCode="eng" multilanguage="false" variant="scotland" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_ens_fiona_22_embedded-pro_1-0-2.hdr" sku="scottishengfiona">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_eng_gbr_fiona_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_eng_gbr_fiona_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_ens_fiona_22_embedded-compact_1-0-2.hdr" sku="scottishengfiona">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_eng_gbr_fiona_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_eng_gbr_fiona_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Tessa" countryCode="zaf" langCode="eng" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_enz_tessa_22_embedded-pro_1-0-2.hdr" sku="southafricanengtessa">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_eng_zaf_tessa_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_eng_zaf_tessa_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_enz_tessa_22_embedded-compact_1-0-2.hdr" sku="southafricanengtessa">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_eng_zaf_tessa_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_eng_zaf_tessa_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Allison" countryCode="usa" langCode="eng" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_enu_allison_22_embedded-pro_1-2-1.hdr" sku="usengallison">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_eng_usa_allison_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_eng_usa_allison_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_enu_allison_22_embedded-compact_1-2-0.hdr" sku="usengallison">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_eng_usa_allison_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_eng_usa_allison_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Ava" countryCode="usa" langCode="eng" multilanguage="false" variant="" version="3.7.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_enu_ava_22_embedded-pro_3-2-0.hdr" sku="usengava">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_usa_ava_embedded_pro_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_usa_ava_embedded_pro_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_enu_ava_22_embedded-compact_3-2-0.hdr" sku="usengava">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_usa_ava_embedded_compact_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_usa_ava_embedded_compact_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_high" header="ve_pipeline_enu_ava_22_embedded-high_4-0-1.hdr" sku="usengava">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_usa_ava_embedded_high_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_usa_ava_embedded_high_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Evan" countryCode="usa" langCode="eng" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_enu_evan_22_embedded-pro_2-1-1.hdr" sku="usengevan">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_eng_usa_evan_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_eng_usa_evan_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_enu_evan_22_embedded-compact_2-0-0.hdr" sku="usengevan">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_eng_usa_evan_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_eng_usa_evan_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Joelle" countryCode="usa" langCode="eng" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_high" header="ve_pipeline_enu_joelle_22_embedded-high_2-2-1.hdr" sku="usengjoelle">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_eng_usa_joelle_embedded_high_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_eng_usa_joelle_embedded_high_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Nathan" countryCode="usa" langCode="eng" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_enu_nathan_22_embedded-pro_3-0-0.hdr" sku="usengnathan">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_eng_usa_nathan_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_eng_usa_nathan_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_enu_nathan_22_embedded-compact_2-0-0.hdr" sku="usengnathan">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_eng_usa_nathan_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_eng_usa_nathan_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Noelle" countryCode="usa" langCode="eng" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_high" header="ve_pipeline_enu_noelle_22_embedded-high_2-2-1.hdr" sku="usengnoelle">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_eng_usa_noelle_embedded_high_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_eng_usa_noelle_embedded_high_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Samantha" countryCode="usa" langCode="eng" multilanguage="false" variant="" version="3.7.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_enu_samantha_22_embedded-pro_1-0-3.hdr" sku="usengsamantha">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_usa_samantha_embedded_pro_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_usa_samantha_embedded_pro_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_enu_samantha_22_embedded-compact_1-0-2.hdr" sku="usengsamantha">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_usa_samantha_embedded_compact_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_usa_samantha_embedded_compact_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_high" header="ve_pipeline_enu_samantha_22_embedded-high_2-0-0.hdr" sku="usengsamantha">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_eng_usa_samantha_embedded_high_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_eng_usa_samantha_embedded_high_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Susan" countryCode="usa" langCode="eng" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_enu_susan_22_embedded-pro_1-1-1.hdr" sku="usengsusan">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_eng_usa_susan_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_eng_usa_susan_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_enu_susan_22_embedded-compact_1-1-0.hdr" sku="usengsusan">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_eng_usa_susan_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_eng_usa_susan_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Tom" countryCode="usa" langCode="eng" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_enu_tom_22_embedded-pro_3-4-0.hdr" sku="usengtom">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_eng_usa_tom_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_eng_usa_tom_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_enu_tom_22_embedded-compact_3-2-2.hdr" sku="usengtom">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_eng_usa_tom_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_eng_usa_tom_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Zoe" countryCode="usa" langCode="eng" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_enu_zoe_22_embedded-pro_2-2-1.hdr" sku="usengzoe">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_eng_usa_zoe_embedded_pro_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_eng_usa_zoe_embedded_pro_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_enu_zoe_22_embedded-compact_2-2-1.hdr" sku="usengzoe">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_eng_usa_zoe_embedded_compact_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_eng_usa_zoe_embedded_compact_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Onni" countryCode="fin" langCode="fin" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_fif_onni_22_embedded-pro_1-0-2.hdr" sku="finnishonni">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_fin_fin_onni_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_fin_fin_onni_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_fif_onni_22_embedded-compact_1-0-1.hdr" sku="finnishonni">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_fin_fin_onni_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_fin_fin_onni_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Satu" countryCode="fin" langCode="fin" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_fif_satu_22_embedded-pro_2-0-0.hdr" sku="finnishsatu">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_fin_fin_satu_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_fin_fin_satu_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_fif_satu_22_embedded-compact_1-0-1.hdr" sku="finnishsatu">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_fin_fin_satu_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_fin_fin_satu_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Aude" countryCode="bel" langCode="fra" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_frb_aude_22_embedded-pro_1-0-0.hdr" sku="belgianfrenchaude">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_fra_bel_aude_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_fra_bel_aude_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Amelie" countryCode="can" langCode="fra" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_frc_amelie_22_embedded-pro_1-0-2.hdr" sku="canadianfrenchamelie">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_fra_can_amelie_embedded_pro_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_fra_can_amelie_embedded_pro_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_frc_amelie_22_embedded-compact_1-0-2.hdr" sku="canadianfrenchamelie">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_fra_can_amelie_embedded_compact_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_fra_can_amelie_embedded_compact_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Chantal" countryCode="can" langCode="fra" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_frc_chantal_22_embedded-pro_1-0-5.hdr" sku="canadianfrenchchantal">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_fra_can_chantal_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_fra_can_chantal_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_frc_chantal_22_embedded-compact_1-0-2.hdr" sku="canadianfrenchchantal">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_fra_can_chantal_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_fra_can_chantal_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Nicolas" countryCode="can" langCode="fra" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_frc_nicolas_22_embedded-pro_1-0-5.hdr" sku="canadianfrenchnicolas">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_fra_can_nicolas_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_fra_can_nicolas_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_frc_nicolas_22_embedded-compact_1-0-2.hdr" sku="canadianfrenchnicolas">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_fra_can_nicolas_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_fra_can_nicolas_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Audrey" countryCode="fra" langCode="fra" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_frf_audrey_22_embedded-pro_1-0-2.hdr" sku="frenchaudrey">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_fra_fra_audrey_embedded_pro_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_fra_fra_audrey_embedded_pro_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_frf_audrey_22_embedded-compact_1-0-2.hdr" sku="frenchaudrey">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_fra_fra_audrey_embedded_compact_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_fra_fra_audrey_embedded_compact_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Aurelie" countryCode="fra" langCode="fra" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_frf_aurelie_22_embedded-pro_1-1-1.hdr" sku="frenchaurelie">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_fra_fra_aurelie_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_fra_fra_aurelie_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_frf_aurelie_22_embedded-compact_1-1-1.hdr" sku="frenchaurelie">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_fra_fra_aurelie_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_fra_fra_aurelie_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Thomas" countryCode="fra" langCode="fra" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_frf_thomas_22_embedded-pro_1-1-1.hdr" sku="frenchthomas">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_fra_fra_thomas_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_fra_fra_thomas_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_frf_thomas_22_embedded-compact_1-1-1.hdr" sku="frenchthomas">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_fra_fra_thomas_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_fra_fra_thomas_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Carmela" countryCode="esp" langCode="glg" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_gle_carmela_22_embedded-pro_1-0-1.hdr" sku="galiciancarmela">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_glg_esp_carmela_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_glg_esp_carmela_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_gle_carmela_22_embedded-compact_1-0-1.hdr" sku="galiciancarmela">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_glg_esp_carmela_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_glg_esp_carmela_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Anna" countryCode="deu" langCode="deu" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_ged_anna_22_embedded-pro_2-1-1.hdr" sku="germananna">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_deu_deu_anna_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_deu_deu_anna_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_ged_anna_22_embedded-compact_2-1-1.hdr" sku="germananna">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_deu_deu_anna_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_deu_deu_anna_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Markus" countryCode="deu" langCode="deu" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_ged_markus_22_embedded-pro_3-0-0.hdr" sku="germanmarkus">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_deu_deu_markus_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_deu_deu_markus_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_ged_markus_22_embedded-compact_2-0-0.hdr" sku="germanmarkus">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_deu_deu_markus_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_deu_deu_markus_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Petra" countryCode="deu" langCode="deu" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_ged_petra_22_embedded-pro_2-1-3.hdr" sku="germanpetra">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_deu_deu_petra_embedded_pro_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_deu_deu_petra_embedded_pro_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_ged_petra_22_embedded-compact_2-1-4.hdr" sku="germanpetra">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_deu_deu_petra_embedded_compact_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_deu_deu_petra_embedded_compact_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Viktor" countryCode="deu" langCode="deu" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_ged_viktor_22_embedded-pro_4-0-0.hdr" sku="germanviktor">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_deu_deu_viktor_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_deu_deu_viktor_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_ged_viktor_22_embedded-compact_2-0-0.hdr" sku="germanviktor">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_deu_deu_viktor_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_deu_deu_viktor_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Yannick" countryCode="deu" langCode="deu" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_ged_yannick_22_embedded-pro_3-1-0.hdr" sku="germanyannick">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_deu_deu_yannick_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_deu_deu_yannick_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_ged_yannick_22_embedded-compact_2-0-0.hdr" sku="germanyannick">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_deu_deu_yannick_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_deu_deu_yannick_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Melina" countryCode="grc" langCode="ell" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_grg_melina_22_embedded-pro_2-0-2.hdr" sku="greekmelina">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_ell_grc_melina_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_ell_grc_melina_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_grg_melina_22_embedded-compact_2-0-2.hdr" sku="greekmelina">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_ell_grc_melina_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_ell_grc_melina_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Nikos" countryCode="grc" langCode="ell" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_grg_nikos_22_embedded-pro_1-0-4.hdr" sku="greeknikos">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_ell_grc_nikos_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_ell_grc_nikos_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_grg_nikos_22_embedded-compact_1-0-0.hdr" sku="greeknikos">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_ell_grc_nikos_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_ell_grc_nikos_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Carmit" countryCode="isr" langCode="heb" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_hei_carmit_22_embedded-pro_1-0-2.hdr" sku="hebrewcarmit">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_heb_isr_carmit_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_heb_isr_carmit_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_hei_carmit_22_embedded-compact_1-0-2.hdr" sku="hebrewcarmit">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_heb_isr_carmit_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_heb_isr_carmit_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Lekha" countryCode="ind" langCode="hin" multilanguage="false" variant="" version="3.7.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_hii_lekha_22_embedded-pro_1-1-3.hdr" sku="hindilekha">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_hin_ind_lekha_embedded_pro_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_hin_ind_lekha_embedded_pro_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_hii_lekha_22_embedded-compact_1-1-2.hdr" sku="hindilekha">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_hin_ind_lekha_embedded_compact_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_hin_ind_lekha_embedded_compact_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+     <voice_model id="embedded_high" header="ve_pipeline_hii_lekha_22_embedded-high_1-1-3.hdr" sku="hindilekha">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_hin_ind_lekha_embedded_high_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_hin_ind_lekha_embedded_high_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+ </voice>
+  <voice name="Neel" countryCode="ind" langCode="hin" multilanguage="false" variant="" version="3.7.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_hii_neel_22_embedded-pro_2-0-2.hdr" sku="hindineel">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_hin_ind_neel_embedded_pro_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_hin_ind_neel_embedded_pro_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_hii_neel_22_embedded-compact_2-0-1.hdr" sku="hindineel">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_hin_ind_neel_embedded_compact_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2:7.1/samples/ve_hin_ind_neel_embedded_compact_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_high" header="ve_pipeline_hii_neel_22_embedded-high_2-0-2.hdr" sku="hindineel">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_hin_ind_neel_embedded_high_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_hin_ind_neel_embedded_high_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Kiyara-ml" countryCode="ind" langCode="hin" multilanguage="true" variant="" version="3.7.1">
+    <voice_model id="embedded_high" header="ve_pipeline_hii_kiyara-ml_22_embedded-high_1-0-1.hdr" sku="hindikiyara">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_hin_ind_kiyara-ml_embedded_high_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_hin_ind_kiyara-ml_embedded_high_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_pro" header="ve_pipeline_hii_kiyara-ml_22_embedded-pro_1-0-1.hdr" sku="hindikiyara">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_hin_ind_kiyara-ml_embedded_pro_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_hin_ind_kiyara-ml_embedded_pro_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Mariska" countryCode="hun" langCode="hun" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_huh_mariska_22_embedded-pro_2-0-1.hdr" sku="hungarianmariska">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_hun_hun_mariska_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_hun_hun_mariska_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_huh_mariska_22_embedded-compact_1-0-0.hdr" sku="hungarianmariska">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_hun_hun_mariska_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_hun_hun_mariska_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Damayanti" countryCode="idn" langCode="ind" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_idi_damayanti_22_embedded-pro_1-0-2.hdr" sku="indonesiandamayanti">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_ind_idn_damayanti_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_ind_idn_damayanti_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_idi_damayanti_22_embedded-compact_1-0-0.hdr" sku="indonesiandamayanti">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_ind_idn_damayanti_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_ind_idn_damayanti_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Alice" countryCode="ita" langCode="ita" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_iti_alice_22_embedded-pro_1-2-0.hdr" sku="italianalice">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_ita_ita_alice_embedded_pro_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_ita_ita_alice_embedded_pro_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_iti_alice_22_embedded-compact_1-2-0.hdr" sku="italianalice">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_ita_ita_alice_embedded_compact_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_ita_ita_alice_embedded_compact_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Federica" countryCode="ita" langCode="ita" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_iti_federica_22_embedded-pro_1-1-0.hdr" sku="italianfederica">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_ita_ita_federica_embedded_pro_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_ita_ita_federica_embedded_pro_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_iti_federica_22_embedded-compact_1-1-0.hdr" sku="italianfederica">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_ita_ita_federica_embedded_compact_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_ita_ita_federica_embedded_compact_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Luca" countryCode="ita" langCode="ita" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_iti_luca_22_embedded-pro_1-3-1.hdr" sku="italianluca">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_ita_ita_luca_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_ita_ita_luca_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_iti_luca_22_embedded-compact_1-1-0.hdr" sku="italianluca">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_ita_ita_luca_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_ita_ita_luca_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Paola" countryCode="ita" langCode="ita" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_iti_paola_22_embedded-pro_1-3-1.hdr" sku="italianpaola">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_ita_ita_paola_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_ita_ita_paola_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_iti_paola_22_embedded-compact_1-1-0.hdr" sku="italianpaola">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_ita_ita_paola_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_ita_ita_paola_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Ayane" countryCode="jpn" langCode="jpn" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_jpj_ayane_22_embedded-pro_3-0-0.hdr" sku="japaneseayane">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_jpn_jpn_ayane_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_jpn_jpn_ayane_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_jpj_ayane_22_embedded-compact_3-0-0.hdr" sku="japaneseayane">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_jpn_jpn_ayane_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_jpn_jpn_ayane_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Daisuke" countryCode="jpn" langCode="jpn" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_jpj_daisuke_22_embedded-pro_3-0-0.hdr" sku="japanesedaisuke">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_jpn_jpn_daisuke_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_jpn_jpn_daisuke_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_jpj_daisuke_22_embedded-compact_3-0-0.hdr" sku="japanesedaisuke">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_jpn_jpn_daisuke_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_jpn_jpn_daisuke_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Ichiro" countryCode="jpn" langCode="jpn" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_jpj_ichiro_22_embedded-pro_3-0-0.hdr" sku="japaneseotoya">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_jpn_jpn_ichiro_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_jpn_jpn_ichiro_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_jpj_ichiro_22_embedded-compact_3-0-0.hdr" sku="japaneseotoya">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_jpn_jpn_ichiro_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_jpn_jpn_ichiro_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Koharu" countryCode="jpn" langCode="jpn" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_jpj_koharu_22_embedded-pro_1-0-0.hdr" sku="japanesekoharu">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_jpn_jpn_koharu_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_jpn_jpn_koharu_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_jpj_koharu_22_embedded-compact_1-0-0.hdr" sku="japanesekoharu">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_jpn_jpn_koharu_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_jpn_jpn_koharu_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Mizuki" countryCode="jpn" langCode="jpn" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_jpj_mizuki_22_embedded-pro_3-0-0.hdr" sku="japanesekyoko">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_jpn_jpn_mizuki_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_jpn_jpn_mizuki_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_jpj_mizuki_22_embedded-compact_3-0-0.hdr" sku="japanesekyoko">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_jpn_jpn_mizuki_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_jpn_jpn_mizuki_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Sakura" countryCode="jpn" langCode="jpn" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_jpj_sakura_22_embedded-pro_3-0-0.hdr" sku="japanesesakura">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_jpn_jpn_sakura_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_jpn_jpn_sakura_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_jpj_sakura_22_embedded-compact_3-0-0.hdr" sku="japanesesakura">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_jpn_jpn_sakura_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_jpn_jpn_sakura_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Sora" countryCode="kor" langCode="kor" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_kok_sora_22_embedded-pro_3-0-0.hdr" sku="koreansora">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_kor_kor_sora_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_kor_kor_sora_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_kok_sora_22_embedded-compact_2-1-2.hdr" sku="koreansora">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_kor_kor_sora_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_kor_kor_sora_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Yuna" countryCode="kor" langCode="kor" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_kok_yuna_22_embedded-pro_2-0-2.hdr" sku="koreanyuna">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_kor_kor_yuna_embedded_pro_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_kor_kor_yuna_embedded_pro_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_kok_yuna_22_embedded-compact_2-0-0.hdr" sku="koreanyuna">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_kor_kor_yuna_embedded_compact_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_kor_kor_yuna_embedded_compact_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Minsu" countryCode="kor" langCode="kor" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_kok_minsu_22_embedded-pro_2-0-1.hdr" sku="koreanminsu">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_kor_kor_minsu_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_kor_kor_minsu_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_kok_minsu_22_embedded-compact_2-0-0.hdr" sku="koreanminsu">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_kor_kor_minsu_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_kor_kor_minsu_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Nuri-ml" countryCode="kor" langCode="kor" multilanguage="true" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_kok_nuri-ml_22_embedded-pro_1-0-0.hdr" sku="koreannuri">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_kor_kor_nuri-ml_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_kor_kor_nuri-ml_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Sin-ji" countryCode="hkg" langCode="zho" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_cah_sin-ji_22_embedded-pro_1-0-2.hdr" sku="cantonesesinji">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_zho_hkg_sin-ji_embedded_pro_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_zho_hkg_sin-ji_embedded_pro_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Sinji" countryCode="hkg" langCode="zho" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_compact" header="ve_pipeline_cah_sinji_22_embedded-compact_1-0-0.hdr" sku="cantonesesinji">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_zho_hkg_sinji_embedded_compact_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_zho_hkg_sinji_embedded_compact_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Aasing-ml" countryCode="hkg" langCode="zho" multilanguage="true" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_cah_aasing-ml_22_embedded-pro_1-0-0.hdr" sku="cantoneseaasing">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_zho_hkg_aasing-ml_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_zho_hkg_aasing-ml_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Fangfang" countryCode="chn" langCode="iii" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_compact" header="ve_pipeline_sic_fangfang_22_embedded-compact_1-0-0.hdr" sku="sichuanesefangfang">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_iii_chn_fangfang_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_iii_chn_fangfang_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Fangfang-ml" countryCode="chn" langCode="iii" multilanguage="true" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_sic_fangfang-ml_22_embedded-pro_2-0-2.hdr" sku="sichuanesefangfang">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_iii_chn_fangfang-ml_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_iii_chn_fangfang-ml_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Feifei-ml" countryCode="chn" langCode="iii" multilanguage="true" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_sic_feifei-ml_22_embedded-pro_1-0-0.hdr" sku="sichuanesefeifei">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_iii_chn_feifei-ml_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_iii_chn_feifei-ml_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Dongmei-ml" countryCode="chn" langCode="zho" multilanguage="true" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_doc_dongmei-ml_22_embedded-pro_1-0-1.hdr" sku="dongbeichinadongmei">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_zho_chn_dongmei-ml_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_zho_chn_dongmei-ml_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Lulu-ml" countryCode="chn" langCode="zho" multilanguage="true" variant="" version="3.4.3">
+    <voice_model id="embedded_high" header="ve_pipeline_shc_lulu-ml_22_embedded-high_1-0-1.hdr" sku="shanghaineselulu">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_zho_chn_lulu-ml_embedded_high_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_zho_chn_lulu-ml_embedded_high_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Haohao-ml" countryCode="chn" langCode="zho" multilanguage="true" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_sxc_haohao-ml_22_embedded-pro_1-0-0.hdr" sku="shaanxihaohao">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_zho_chn_haohao-ml_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_zho_chn_haohao-ml_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Bin-bin" countryCode="chn" langCode="zho" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_mnc_bin-bin_22_embedded-pro_1-0-1.hdr" sku="chinesemandarinbinbin">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_zho_chn_bin-bin_embedded_pro_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_zho_chn_bin-bin_embedded_pro_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Binbin" countryCode="chn" langCode="zho" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_compact" header="ve_pipeline_mnc_binbin_22_embedded-compact_1-0-0.hdr" sku="chinesemandarinbinbin">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_zho_chn_binbin_embedded_compact_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_zho_chn_binbin_embedded_compact_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Li-li" countryCode="chn" langCode="zho" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_mnc_li-li_22_embedded-pro_1-1-0.hdr" sku="chinesemandarinlili">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_zho_chn_li-li_embedded_pro_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_zho_chn_li-li_embedded_pro_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Lili" countryCode="chn" langCode="zho" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_compact" header="ve_pipeline_mnc_lili_22_embedded-compact_1-0-0.hdr" sku="chinesemandarinlili">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_zho_chn_lili_embedded_compact_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_zho_chn_lili_embedded_compact_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Tian-tian" countryCode="chn" langCode="zho" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_mnc_tian-tian_22_embedded-pro_1-0-1.hdr" sku="chinesemandarintiantian">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_zho_chn_tian-tian_embedded_pro_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_zho_chn_tian-tian_embedded_pro_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Tiantian" countryCode="chn" langCode="zho" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_compact" header="ve_pipeline_mnc_tiantian_22_embedded-compact_1-0-0.hdr" sku="chinesemandarintiantian">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_zho_chn_tiantian_embedded_compact_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_zho_chn_tiantian_embedded_compact_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Bobo-ml" countryCode="chn" langCode="zho" multilanguage="true" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_mnc_bobo-ml_22_embedded-pro_1-2-0.hdr" sku="chinesemandarinbobo">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_zho_chn_bobo-ml_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_zho_chn_bobo-ml_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Lanlan-ml" countryCode="chn" langCode="zho" multilanguage="true" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_mnc_lanlan-ml_22_embedded-pro_1-2-1.hdr" sku="chinesemandarinlanlan">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_zho_chn_lanlan-ml_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_zho_chn_lanlan-ml_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Lisheng-ml" countryCode="chn" langCode="zho" multilanguage="true" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_mnc_lisheng-ml_22_embedded-pro_1-2-0.hdr" sku="chinesemandarinlisheng">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_zho_chn_lisheng-ml_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_zho_chn_lisheng-ml_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Shanshan-ml" countryCode="chn" langCode="zho" multilanguage="true" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_mnc_shanshan-ml_22_embedded-pro_1-1-0.hdr" sku="chinesemandarinshanshan">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_zho_chn_shanshan-ml_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_zho_chn_shanshan-ml_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Shasha-ml" countryCode="chn" langCode="zho" multilanguage="true" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_mnc_shasha-ml_22_embedded-pro_1-2-1.hdr" sku="chinesemandarinshasha">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_zho_chn_shasha-ml_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_zho_chn_shasha-ml_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Taotao-ml" countryCode="chn" langCode="zho" multilanguage="true" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_mnc_taotao-ml_22_embedded-pro_1-0-1.hdr" sku="chinesemandarintaotao">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_zho_chn_taotao-ml_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_zho_chn_taotao-ml_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Tingting-ml" countryCode="chn" langCode="zho" multilanguage="true" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_mnc_tingting-ml_22_embedded-pro_1-2-0.hdr" sku="chinesemandarintingting">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_zho_chn_tingting-ml_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_zho_chn_tingting-ml_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Lilian-ml" countryCode="chn" langCode="zho" multilanguage="true" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_mnc_lilian-ml_22_embedded-pro_2-0-1.hdr" sku="chinesemandarinlilian">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_zho_chn_lilian-ml_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_zho_chn_lilian-ml_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Mei-jia" countryCode="twn" langCode="zho" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_mnt_mei-jia_22_embedded-pro_2-0-0.hdr" sku="taiwanesemandarinmeijia">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_zho_twn_mei-jia_embedded_pro_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_zho_twn_mei-jia_embedded_pro_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Meijia" countryCode="twn" langCode="zho" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_compact" header="ve_pipeline_mnt_meijia_22_embedded-compact_1-0-0.hdr" sku="taiwanesemandarinmeijia">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_zho_twn_meijia_embedded_compact_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_zho_twn_meijia_embedded_compact_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Henrik" countryCode="nor" langCode="nob" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_non_henrik_22_embedded-pro_1-0-0.hdr" sku="norwegianhenrik">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_nob_nor_henrik_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_nob_nor_henrik_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_non_henrik_22_embedded-compact_1-0-0.hdr" sku="norwegianhenrik">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_nob_nor_henrik_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_nob_nor_henrik_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Nora" countryCode="nor" langCode="nob" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_non_nora_22_embedded-pro_2-1-0.hdr" sku="norwegiannora">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_nob_nor_nora_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_nob_nor_nora_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_non_nora_22_embedded-compact_1-0-0.hdr" sku="norwegiannora">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_nob_nor_nora_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_nob_nor_nora_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Ewa" countryCode="pol" langCode="pol" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_plp_ewa_22_embedded-pro_2-0-0.hdr" sku="polishewa">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_pol_pol_ewa_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_pol_pol_ewa_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_plp_ewa_22_embedded-compact_1-0-0.hdr" sku="polishewa">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_pol_pol_ewa_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_pol_pol_ewa_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Krzysztof" countryCode="pol" langCode="pol" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_plp_krzysztof_22_embedded-pro_1-1-4.hdr" sku="polishkrzysztof">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_pol_pol_krzysztof_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_pol_pol_krzysztof_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_plp_krzysztof_22_embedded-compact_1-0-0.hdr" sku="polishkrzysztof">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_pol_pol_krzysztof_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_pol_pol_krzysztof_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Zosia" countryCode="pol" langCode="pol" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_plp_zosia_22_embedded-pro_1-1-4.hdr" sku="polishzosia">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_pol_pol_zosia_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_pol_pol_zosia_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_plp_zosia_22_embedded-compact_1-0-0.hdr" sku="polishzosia">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_pol_pol_zosia_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_pol_pol_zosia_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Felipe" countryCode="bra" langCode="por" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_ptb_felipe_22_embedded-pro_1-1-3.hdr" sku="brazilianportuguesefelipe">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_por_bra_felipe_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_por_bra_felipe_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_ptb_felipe_22_embedded-compact_1-1-3.hdr" sku="brazilianportuguesefelipe">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_por_bra_felipe_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_por_bra_felipe_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Fernanda" countryCode="bra" langCode="por" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_ptb_fernanda_22_embedded-pro_1-1-4.hdr" sku="brazilianportuguesefernanda">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_por_bra_fernanda_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_por_bra_fernanda_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_ptb_fernanda_22_embedded-compact_1-1-4.hdr" sku="brazilianportuguesefernanda">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_por_bra_fernanda_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_por_bra_fernanda_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Luciana" countryCode="bra" langCode="por" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_ptb_luciana_22_embedded-pro_2-0-1.hdr" sku="brazilianportugueseluciana">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_por_bra_luciana_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_por_bra_luciana_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_ptb_luciana_22_embedded-compact_1-0-0.hdr" sku="brazilianportugueseluciana">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_por_bra_luciana_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_por_bra_luciana_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Catarina" countryCode="prt" langCode="por" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_ptp_catarina_22_embedded-pro_1-0-5.hdr" sku="portuguesecatarina">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_por_prt_catarina_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_por_prt_catarina_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_ptp_catarina_22_embedded-compact_1-0-0.hdr" sku="portuguesecatarina">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_por_prt_catarina_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_por_prt_catarina_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Joana" countryCode="prt" langCode="por" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_ptp_joana_22_embedded-pro_2-0-2.hdr" sku="portuguesejoana">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_por_prt_joana_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_por_prt_joana_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_ptp_joana_22_embedded-compact_1-0-0.hdr" sku="portuguesejoana">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_por_prt_joana_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_por_prt_joana_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Joaquim" countryCode="prt" langCode="por" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_ptp_joaquim_22_embedded-pro_1-0-5.hdr" sku="portuguesejoaquim">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_por_prt_joaquim_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_por_prt_joaquim_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_ptp_joaquim_22_embedded-compact_1-0-0.hdr" sku="portuguesejoaquim">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_por_prt_joaquim_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_por_prt_joaquim_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Ioana" countryCode="rou" langCode="ron" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_ror_ioana_22_embedded-pro_2-0-0.hdr" sku="romanianioana">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_ron_rou_ioana_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_ron_rou_ioana_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_ror_ioana_22_embedded-compact_1-0-2.hdr" sku="romanianioana">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_ron_rou_ioana_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_ron_rou_ioana_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Katya" countryCode="rus" langCode="rus" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_rur_katya_22_embedded-pro_1-0-1.hdr" sku="russiankatya">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_rus_rus_katya_embedded_pro_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_rus_rus_katya_embedded_pro_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_rur_katya_22_embedded-compact_1-0-1.hdr" sku="russiankatya">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_rus_rus_katya_embedded_compact_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_rus_rus_katya_embedded_compact_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Milena" countryCode="rus" langCode="rus" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_rur_milena_22_embedded-pro_1-0-6.hdr" sku="russianmilena">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_rus_rus_milena_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_rus_rus_milena_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_rur_milena_22_embedded-compact_1-0-5.hdr" sku="russianmilena">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_rus_rus_milena_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_rus_rus_milena_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Yuri" countryCode="rus" langCode="rus" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_rur_yuri_22_embedded-pro_2-0-0.hdr" sku="russianyuri">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_rus_rus_yuri_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_rus_rus_yuri_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_rur_yuri_22_embedded-compact_1-0-5.hdr" sku="russianyuri">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_rus_rus_yuri_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_rus_rus_yuri_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Laura" countryCode="svk" langCode="slk" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_sks_laura_22_embedded-pro_1-0-3.hdr" sku="slovaklaura">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_slk_svk_laura_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_slk_svk_laura_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_sks_laura_22_embedded-compact_1-0-2.hdr" sku="slovaklaura">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_slk_svk_laura_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_slk_svk_laura_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Tina" countryCode="svn" langCode="slv" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_sls_tina_22_embedded-pro_1-0-1.hdr" sku="sloveniantina">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_slv_svn_tina_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_slv_svn_tina_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Diego" countryCode="arg" langCode="spa" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_spa_diego_22_embedded-pro_1-0-3.hdr" sku="spanishargentinadiego">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_spa_arg_diego_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_spa_arg_diego_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_spa_diego_22_embedded-compact_1-0-0.hdr" sku="spanishargentinadiego">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_spa_arg_diego_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_spa_arg_diego_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Isabela" countryCode="arg" langCode="spa" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_spa_isabela_22_embedded-pro_1-0-3.hdr" sku="spanishargentinaisabela">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_spa_arg_isabela_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_spa_arg_isabela_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_spa_isabela_22_embedded-compact_1-0-0.hdr" sku="spanishargentinaisabela">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_spa_arg_isabela_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_spa_arg_isabela_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Francisca" countryCode="chl" langCode="spa" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_spl_francisca_22_embedded-pro_1-0-1.hdr" sku="spanishchilefrancisca">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_spa_chl_francisca_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_spa_chl_francisca_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_spl_francisca_22_embedded-compact_1-0-0.hdr" sku="spanishchilefrancisca">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_spa_chl_francisca_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_spa_chl_francisca_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Carlos" countryCode="col" langCode="spa" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_spc_carlos_22_embedded-pro_1-0-0.hdr" sku="spanishcolombiacarlos">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_spa_col_carlos_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_spa_col_carlos_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_spc_carlos_22_embedded-compact_1-0-0.hdr" sku="spanishcolombiacarlos">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_spa_col_carlos_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_spa_col_carlos_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Ximena" countryCode="col" langCode="spa" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_spc_ximena_22_embedded-pro_1-0-1.hdr" sku="spanishcolombiaximena">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_spa_col_ximena_embedded_pro_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_spa_col_ximena_embedded_pro_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_spc_ximena_22_embedded-compact_1-0-1.hdr" sku="spanishcolombiaximena">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_spa_col_ximena_embedded_compact_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_spa_col_ximena_embedded_compact_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Soledad" countryCode="col" langCode="spa" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_spc_soledad_22_embedded-pro_1-0-2.hdr" sku="spanishcolombiasoledad">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_spa_col_soledad_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_spa_col_soledad_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_spc_soledad_22_embedded-compact_1-0-0.hdr" sku="spanishcolombiasoledad">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_spa_col_soledad_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_spa_col_soledad_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Angelica" countryCode="mex" langCode="spa" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_spm_angelica_22_embedded-pro_1-1-5.hdr" sku="mexicanspanishangelica">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_spa_mex_angelica_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_spa_mex_angelica_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_spm_angelica_22_embedded-compact_1-1-5.hdr" sku="mexicanspanishangelica">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_spa_mex_angelica_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_spa_mex_angelica_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Juan" countryCode="mex" langCode="spa" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_spm_juan_22_embedded-pro_1-1-5.hdr" sku="mexicanspanishjuan">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_spa_mex_juan_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_spa_mex_juan_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_spm_juan_22_embedded-compact_1-1-5.hdr" sku="mexicanspanishjuan">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_spa_mex_juan_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_spa_mex_juan_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Paulina" countryCode="mex" langCode="spa" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_spm_paulina_22_embedded-pro_2-0-0.hdr" sku="mexicanspanishpaulina">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_spa_mex_paulina_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_spa_mex_paulina_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_spm_paulina_22_embedded-compact_1-1-0.hdr" sku="mexicanspanishpaulina">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_spa_mex_paulina_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_spa_mex_paulina_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Jorge" countryCode="esp" langCode="spa" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_spe_jorge_22_embedded-pro_1-3-2.hdr" sku="spanishjorge">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_spa_esp_jorge_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_spa_esp_jorge_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_spe_jorge_22_embedded-compact_1-0-1.hdr" sku="spanishjorge">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_spa_esp_jorge_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_spa_esp_jorge_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Marisol" countryCode="esp" langCode="spa" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_spe_marisol_22_embedded-pro_1-0-1.hdr" sku="spanishmarisol">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_spa_esp_marisol_embedded_pro_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_spa_esp_marisol_embedded_pro_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_spe_marisol_22_embedded-compact_1-0-1.hdr" sku="spanishmarisol">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_spa_esp_marisol_embedded_compact_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_spa_esp_marisol_embedded_compact_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Monica" countryCode="esp" langCode="spa" multilanguage="false" variant="" version="3.2.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_spe_monica_22_embedded-pro_1-0-1.hdr" sku="esspanishmonica">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_spa_esp_monica_embedded_pro_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_spa_esp_monica_embedded_pro_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_spe_monica_22_embedded-compact_1-0-1.hdr" sku="esspanishmonica">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/ve_spa_esp_monica_embedded_compact_3.2.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.2.1/samples/ve_spa_esp_monica_embedded_compact_3.2.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Oskar" countryCode="swe" langCode="swe" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_sws_oskar_22_embedded-pro_1-0-3.hdr" sku="swedishoskar">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_swe_swe_oskar_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_swe_swe_oskar_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_sws_oskar_22_embedded-compact_1-0-2.hdr" sku="swedishoskar">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_swe_swe_oskar_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_swe_swe_oskar_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Alva" countryCode="swe" langCode="swe" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_sws_alva_22_embedded-pro_2-0-0.hdr" sku="swedishalva">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_swe_swe_alva_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_swe_swe_alva_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_sws_alva_22_embedded-compact_1-0-3.hdr" sku="swedishalva">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_swe_swe_alva_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_swe_swe_alva_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Klara" countryCode="swe" langCode="swe" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_sws_klara_22_embedded-pro_1-0-3.hdr" sku="swedishklara">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_swe_swe_klara_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_swe_swe_klara_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_sws_klara_22_embedded-compact_1-0-3.hdr" sku="swedishklara">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_swe_swe_klara_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_swe_swe_klara_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Kanya" countryCode="tha" langCode="tha" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_tht_kanya_22_embedded-pro_2-0-0.hdr" sku="thaikanya">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_tha_tha_kanya_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_tha_tha_kanya_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_tht_kanya_22_embedded-compact_1-0-1.hdr" sku="thaikanya">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_tha_tha_kanya_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_tha_tha_kanya_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Narisa" countryCode="tha" langCode="tha" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_tht_narisa_22_embedded-pro_1-0-1.hdr" sku="thainarisa">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_tha_tha_narisa_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_tha_tha_narisa_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_tht_narisa_22_embedded-compact_1-0-0.hdr" sku="thainarisa">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_tha_tha_narisa_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_tha_tha_narisa_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Paya" countryCode="ind" langCode="ben" multilanguage="false" variant="" version="3.4.3">
+    <voice_model id="embedded_pro" header="ve_pipeline_bei_paya_22_embedded-pro_1-0-3.hdr" sku="bengalipaya">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_ben_ind_paya_embedded_pro_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_ben_ind_paya_embedded_pro_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_bei_paya_22_embedded-compact_1-0-3.hdr" sku="bengalipaya">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/ve_ben_ind_paya_embedded_compact_3.4.3.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.4.3/samples/ve_ben_ind_paya_embedded_compact_3.4.3.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Vani" countryCode="ind" langCode="tam" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_tai_vani_22_embedded-pro_1-1-3.hdr" sku="tamilvani">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_tam_ind_vani_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_tam_ind_vani_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_tai_vani_22_embedded-compact_1-1-0.hdr" sku="tamilvani">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_tam_ind_vani_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_tam_ind_vani_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Geeta" countryCode="ind" langCode="tel" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_tei_geeta_22_embedded-pro_1-1-5.hdr" sku="telugugeeta">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_tel_ind_geeta_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_tel_ind_geeta_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_tei_geeta_22_embedded-compact_1-1-1.hdr" sku="telugugeeta">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_tel_ind_geeta_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_tel_ind_geeta_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Ananya" countryCode="ind" langCode="mar" multilanguage="false" variant="" version="3.7.1">
+    <voice_model id="embedded_pro" header="ve_pipeline_mai_ananya_22_embedded-pro_1-0-1.hdr" sku="marathiananya">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_mar_ind_ananya_embedded_pro_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_mar_ind_ananya_embedded_pro_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_mai_ananya_22_embedded-compact_1-0-1.hdr" sku="marathiananya">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_mar_ind_ananya_embedded_compact_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_mar_ind_ananya_embedded_compact_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+     <voice_model id="embedded_high" header="ve_pipeline_mai_ananya_22_embedded-high_1-0-1.hdr" sku="marathiananya">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/ve_mar_ind_ananya_embedded_high_3.7.1.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.1/samples/ve_mar_ind_ananya_embedded_high_3.7.1.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+ </voice>
+  <voice name="Jaya" countryCode="ind" langCode="bho" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_bhi_jaya_22_embedded-pro_1-1-1.hdr" sku="bhojpurijaya">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_bho_ind_jaya_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_bho_ind_jaya_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_bhi_jaya_22_embedded-compact_1-1-0.hdr" sku="bhojpurijaya">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_bho_ind_jaya_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_bho_ind_jaya_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Alpana" countryCode="ind" langCode="kan" multilanguage="false" variant="" version="3.7.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_kai_alpana_22_embedded-pro_1-1-2.hdr" sku="kannadaalpana">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_kan_ind_alpana_embedded_pro_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_kan_ind_alpana_embedded_pro_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_kai_alpana_22_embedded-compact_1-1-0.hdr" sku="kannadaalpana">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/ve_kan_ind_alpana_embedded_compact_3.7.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.7.0/samples/ve_kan_ind_alpana_embedded_compact_3.7.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Amira" countryCode="mys" langCode="msa" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_msm_amira_22_embedded-pro_1-0-2.hdr" sku="malayamira">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_msa_mys_amira_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_msa_mys_amira_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_msm_amira_22_embedded-compact_1-0-2.hdr" sku="malayamira">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_msa_mys_amira_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_msa_mys_amira_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+  <voice name="Linh" countryCode="vnm" langCode="vie" multilanguage="false" variant="" version="3.6.0">
+    <voice_model id="embedded_pro" header="ve_pipeline_viv_linh_22_embedded-pro_1-1-0.hdr" sku="vietnameselinh">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_vie_vnm_linh_embedded_pro_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_vie_vnm_linh_embedded_pro_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+    <voice_model id="embedded_compact" header="ve_pipeline_viv_linh_22_embedded-compact_1-0-0.hdr" sku="vietnameselinh">
+      <package>
+        <dataUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/ve_vie_vnm_linh_embedded_compact_3.6.0.zip</dataUrl>
+        <sampleUrl>http://downloads.codefactoryglobal.com/downloads/vedata/3.6.0/samples/ve_vie_vnm_linh_embedded_compact_3.6.0.mp3</sampleUrl>
+        <version>1.0</version>
+      </package>
+    </voice_model>
+  </voice>
+</voicelist>
