@@ -1,11 +1,6 @@
-{ 
-   "v1":2,
-   "v2":0,
-   "v3":"
-   \nExclusive - Now Supported on Rooted phones
-   \nAdded - Video Length Limit Increased to Unlimited (Enable / Disable) option
-   \nAdded - Disable Camera (Enable / Disable) option - (Prevents from Accidental Touch and Improves Performance and Startup Time.)
-   \nFixed - Fixed minor bugs
-   \nImproved - Improved performance",
-   "website":"https://www.snapchatpro.net/"
+{
+	"v1": 2,
+	"v2": 0,
+	"v3": "\nExclusive - Now Supported on Rooted phones\nAdded - Video Length Limit Increased to Unlimited(Enable / Disable) option\nAdded - Disable Camera(Enable / Disable) option - (Prevents from Accidental Touch and Improves Performance and Startup Time.)\nFixed - Fixed minor bugs\nImproved - Improved performance",
+	"website": "https://www.snapchatpro.net/"
 }
