@@ -1,7 +1,7 @@
 {
 	"v1": 2,
 	"v2": 0,
-	"v3": "\nAdded - Video Length Limit Increased to Unlimited (Enable / Disable) option\nAdded - Disable Camera (Enable / Disable) option - (Prevents from Accidental Touch and Improves Performance and Startup Time.)\nFixed - Fixed minor bugs\nImproved - Improved performance",
+	"v3": "\nSecret Save to Camera Roll (Enable / Disable) option\nAdded - Video Length Limit Increased to Unlimited (Enable / Disable) option\nAdded - Disable Camera (Enable / Disable) option - (Prevents from Accidental Touch and Improves Performance and Startup Time.)\nFixed - Fixed minor bugs\nImproved - Improved performance",
 	"website": "https://www.snapchatpro.net/",
 	"cancel": true
 }
