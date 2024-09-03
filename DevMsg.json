@@ -4,5 +4,7 @@
   "content_url": "https://www.snapchatpro.net/",
   "positive_btn": "OK",
   "link": "https://www.whatsappmods.net/",
-  "cancelable": false
+  "cancelable": false,
+  "hours": 0,
+  "minutes": 1
 }
