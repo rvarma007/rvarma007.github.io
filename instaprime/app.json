@@ -1,0 +1,34 @@
+{
+  "update": {
+    "v1": 0,
+    "v2": 0,
+    "clogs": "Base Version: 406.0.0.58.159\nBugs Fixed Update\n\nFixed: Popup Issues.\n\nFixed: Developer Options — Now you'll see all flags instead of numbers.\n\nFixed: Reels Download issues.\n\nFixed: Profile Options not showing previously.\n\nFixed: DM Load issues.\n\nFixed: Fonts and Emojis — Now you'll able to load .ttf file from Local Storage.\n\nFixed: Carousel Issues.\n\nFixed: Some UI related bugs.\n\nFixed: App Crashes.\n\nImproved: App Performance.",
+    "website": "https://t.me/+-z7igwuY_XFkOGY9",
+    "title": "",
+    "title2": "",
+    "message": "",
+    "message2": "",
+    "32bit": "",
+    "64bit": "",
+    "cancel": false
+  },
+  "social": {
+    "tg_channel": "https://telegram.me/instaprimeofficial",
+    "tg_group": "https://telegram.me/InstaPrimeOfficials",
+    "yt_channel": "https://www.youtube.com/@InstaPrimeOfficial",
+    "insta_page": "primemodsofficial"
+  },
+  "configs": {
+    "url_1": "",
+    "url_2": "",
+    "url_3": "",
+    "upi": {
+      "is_active": false,
+      "url": "https://telegram.me/InstaPrimeOfficials"
+    },
+    "paypal": {
+      "is_active": true,
+      "url": ""
+    }
+  }
+}
