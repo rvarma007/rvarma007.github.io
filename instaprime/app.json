@@ -21,7 +21,7 @@
   "configs": {
     "url_1": "",
     "url_2": "",
-    "url_3": "",
+    "url_3": "https://api.teamsp.org/instaprime/auth",
     "upi": {
       "is_active": false,
       "url": "https://telegram.me/Instaprime_premium_bot"
