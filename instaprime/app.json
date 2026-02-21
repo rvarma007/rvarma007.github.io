@@ -2,8 +2,8 @@
   "update": {
     "v1": 0,
     "v2": 0,
-    "clogs": "Base Version: 406.0.0.58.159\nBugs Fixed Update\n\nFixed: Popup Issues.\n\nFixed: Developer Options — Now you'll see all flags instead of numbers.\n\nFixed: Reels Download issues.\n\nFixed: Profile Options not showing previously.\n\nFixed: DM Load issues.\n\nFixed: Fonts and Emojis — Now you'll able to load .ttf file from Local Storage.\n\nFixed: Carousel Issues.\n\nFixed: Some UI related bugs.\n\nFixed: App Crashes.\n\nImproved: App Performance.",
-    "website": "https://t.me/+-z7igwuY_XFkOGY9",
+    "clogs": "Base Version: 416.0.0.47.66\nBase Updated\n\nAdded: View Blocked Profiles Secretly. (Premium)\n\nAdded: Mark as Seen after Reply (DMs) — The sender will see 'seen' only after you reply. (Premium)\n\nAdded: Private Screen Mode — Prevent people around you from seeing your screen, only you can see your content clearly. (Premium)\n\nAdded: Show Follow Indicator in User Profiles (Mutual, Following, Follower). (Premium)\n\nAdded: Disable Group Creation When Sharing — Prevents from showing the 'Create Group' option when sharing posts, reels, or messages with multiple people. (Premium)\n\nAdded: Mark as Seen (DMs) — You can manually mark a message as seen.\n\nAdded: Hide Chats — You can now hide chats.Added: Filter Feed by Following.\n\nAdded: Remove Bottom Space (Beta) — It removes bottom space from navigation bar.\n\nAdded: Add Accounts without Limits.\n\nFixed: Photos/Videos was not Showing in Gallery.\n\nFixed: Follow Indicator bugs.\n\nFixed: Mention Indicator bugs.\n\nFixed: Add to Story Crashes.\n\nFixed: Random Crash issues.\n\nFixed: Some Random UI glitches.\n\nImproved: View Once Media Downloader in DMs — No need to enable Anti-View Once to download.\n\nImproved: Set Story Upload Time Format.\n\nImproved: Performance (2x faster).\n\nImproved: Pinch-to-Zoom in View Profile Picture.\n\nMisc: Re-arranged Filter Notifications from DMs to Long Press on Chat List.\n\nMisc: Re-arranged View Saved Bio and Caption from Main Settings to Miscellaneous.",
+    "website": "https://t.me/+glbTASdq9c4zZjJl",
     "title": "",
     "title2": "",
     "message": "",
