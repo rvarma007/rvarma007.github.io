@@ -1,9 +1,9 @@
 {
   "update": {
-    "v1": 0,
-    "v2": 0,
-    "clogs": "Base Version: 416.0.0.47.66\nBase Updated\n\nAdded: View Blocked Profiles Secretly. (Premium)\n\nAdded: Mark as Seen after Reply (DMs) — The sender will see 'seen' only after you reply. (Premium)\n\nAdded: Private Screen Mode — Prevent people around you from seeing your screen, only you can see your content clearly. (Premium)\n\nAdded: Show Follow Indicator in User Profiles (Mutual, Following, Follower). (Premium)\n\nAdded: Disable Group Creation When Sharing — Prevents from showing the 'Create Group' option when sharing posts, reels, or messages with multiple people. (Premium)\n\nAdded: Mark as Seen (DMs) — You can manually mark a message as seen.\n\nAdded: Hide Chats — You can now hide chats.Added: Filter Feed by Following.\n\nAdded: Remove Bottom Space (Beta) — It removes bottom space from navigation bar.\n\nAdded: Add Accounts without Limits.\n\nFixed: Photos/Videos was not Showing in Gallery.\n\nFixed: Follow Indicator bugs.\n\nFixed: Mention Indicator bugs.\n\nFixed: Add to Story Crashes.\n\nFixed: Random Crash issues.\n\nFixed: Some Random UI glitches.\n\nImproved: View Once Media Downloader in DMs — No need to enable Anti-View Once to download.\n\nImproved: Set Story Upload Time Format.\n\nImproved: Performance (2x faster).\n\nImproved: Pinch-to-Zoom in View Profile Picture.\n\nMisc: Re-arranged Filter Notifications from DMs to Long Press on Chat List.\n\nMisc: Re-arranged View Saved Bio and Caption from Main Settings to Miscellaneous.",
-    "website": "https://t.me/+glbTASdq9c4zZjJl",
+    "v1": 6,
+    "v2": 1,
+    "clogs": "Base Version: 422.0.0.44.64\nBase Updated\n\nAdded: Creative Fonts for DMs — You can send stylish text using cool fonts in your DMs, It makes your messages look unique and stand out from others. (Premium)\n\nAdded: App Startup Tab — Choose which tab should open automatically when you start the app.\n\nAdded: Reorder Navigation Tabs — Long Press and Drag to reorder navigation tabs. Toggle to show/hide tabs.\n\nAdded: Choose WhatsApp Type — You can choose WhatsApp or WhatsApp Business based on what you need. Note: This option is only for reposting to your WhatsApp Story.\n\nAdded: New iOS 26.4 Emoji.\n\nFixed: Fonts and Emojis — Now you'll able to load .ttf file from Local Storage.\n\nFixed: Random Crashes.\n\nFixed: Story Crashes.\n\nFixed: Hidden Mentions.\n\nFixed: Hide Chats.\n\nFixed: Copy Comments issues.\n\nFixed: Download issues.\n\nFixed: UI/UX.\n\nImproved: Ghost Mode.\n\nImproved: Performance.",
+    "website": "https://t.me/+b9EbNOXQZ4c5MTI1",
     "title": "",
     "title2": "",
     "message": "",
@@ -22,7 +22,7 @@
     "url_1": "https://shortxlinks.in/Rzmyiob",
     "url_2": "https://shortxlinks.in/Rzmyiob",
     "url_3": "https://instaprime.cloudfam.io/premium",
-    "url_4": "https://api.teamsp.org/instaprime/test/",
+    "url_4": "https://api.teamsp.org/instaprime/dive/",
     "upi": {
       "is_active": false,
       "url": "https://telegram.me/Instaprime_premium_bot"
