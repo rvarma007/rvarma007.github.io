@@ -1,7 +1,7 @@
 {
   "update": {
-    "v1": 0,
-    "v2": 0,
+    "v1": 7,
+    "v2": 1,
     "clogs": "Base Version: 435.0.0.37.76\n\nBeta Update\n\nAdded: InstaPrime Options icon in Stories.\n\nAdded: Option to Hide 'InstaPrime Options' icon from stories.\n\nAdded: Option to Hide 'Mark as Seen' icon from stories.\n\nAdded: Long Press for InstaPrime Options - Simply long press on any post to quickly access InstaPrime options menu.\n\nAdded: Long Press for InstaPrime Options (Beta) - Simply long press on any story to quickly access InstaPrime options menu.\n\nAdded: Option to Enable / Disable Long Press for InstaPrime Options in Post / Stories.\n\nFixed: Enhance Photo Quality Crashes.\n\nFixed: Repost Crashes.\n\nFixed: Reels Crashes.\n\nFixed: DMs Crashes.\n\nFixed: Some Random Crashes.\n",
     "website": "https://t.me/+W39V-ibIlsY4MTVl",
     "title": "",
