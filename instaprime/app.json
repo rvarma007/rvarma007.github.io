@@ -1,37 +1,37 @@
 {
-  "update": {
-    "v1": 7,
-    "v2": 1,
-    "clogs": "Base Version: 435.0.0.37.76\n\nBeta Update\n\nAdded: InstaPrime Options icon in Stories.\n\nAdded: Option to Hide 'InstaPrime Options' icon from stories.\n\nAdded: Option to Hide 'Mark as Seen' icon from stories.\n\nAdded: Long Press for InstaPrime Options - Simply long press on any post to quickly access InstaPrime options menu.\n\nAdded: Long Press for InstaPrime Options (Beta) - Simply long press on any story to quickly access InstaPrime options menu.\n\nAdded: Option to Enable / Disable Long Press for InstaPrime Options in Post / Stories.\n\nFixed: Enhance Photo Quality Crashes.\n\nFixed: Repost Crashes.\n\nFixed: Reels Crashes.\n\nFixed: DMs Crashes.\n\nFixed: Some Random Crashes.\n",
-    "website": "https://t.me/+W39V-ibIlsY4MTVl",
-    "title": "",
-    "title2": "",
-    "message": "",
-    "message2": "",
-    "32bit": "",
-    "64bit": "",
-    "cancel": true
-  },
-  "social": {
-    "ig_page": "realravivarma",
-    "official_site": "",
-    "wa_channel": "https://whatsapp.com/channel/0029Vb8PYGgGOj9t2wkN130X",
-    "tg_channel": "https://telegram.me/instaprimeofficial",
-    "tg_group": "https://telegram.me/InstaPrimeOfficials",
-    "yt_channel": "https://www.youtube.com/@InstaPrimeOfficial"
-  },
-  "configs": {
-    "url_1": "https://shortxlinks.in/C2E63Gp",
-    "url_2": "https://shortxlinks.in/C2E63Gp",
-    "url_3": "https://premium.instaprimeofficial.com",
-    "url_4": "https://api.teamsp.org/instaprime/dive/",
-    "upi": {
-      "is_active": false,
-      "url": "https://telegram.me/Instaprime_premium_bot"
+    "update": {
+        "v1": 7,
+        "v2": 2,
+        "clogs": "Base Version: 435.0.0.37.76\n\nBugs Fixed\n\nAdded: Pick Instants from Gallery. (Premium)\n\nAdded: Download Photos/Videos from Instants. (Premium)\n\nAdded: Send Audio as Voice Note — Pick any audio file from local storage and send it as a voice note in DMs. (Premium)\n\nAdded: Liquid Glass UI in Navigation Tabs.\n\nAdded: Change Like Animation Styles.\n\nAdded: Download GIFs / Images from Comments.\n\nAdded: Image to Text (OCR) in Comments — Extract text from images instantly with high accuracy. (Premium)\n\nFixed: Mark as Seen issues.\n\nFixed: Hide Chat issues.\n\nFixed: Fonts and Emojis in Chats.\n\nFixed: Story Looping Issues — Stories not moving to the next one.\n\nFixed: Reels Overflow Menu issues.\n\nFixed: Search Tab Icon.\n\nFixed: Explore Tab Icon.\n\nImproved: Some Flags Issues.\n\nImproved: Overall Stability and Performance. \n",
+        "website": "https://t.me/+hyqw5Id9ytMwOGY1",
+        "title": "",
+        "title2": "",
+        "message": "",
+        "message2": "",
+        "32bit": "",
+        "64bit": "",
+        "cancel": false
     },
-    "paypal": {
-      "is_active": true,
-      "url": ""
+    "social": {
+        "ig_page": "realravivarma",
+        "official_site": "",
+        "wa_channel": "https://whatsapp.com/channel/0029Vb8PYGgGOj9t2wkN130X",
+        "tg_channel": "https://telegram.me/instaprimeofficial",
+        "tg_group": "https://telegram.me/InstaPrimeOfficials",
+        "yt_channel": "https://www.youtube.com/@InstaPrimeOfficial"
+    },
+    "configs": {
+        "url_1": "https://shortxlinks.in/C2E63Gp",
+        "url_2": "https://shortxlinks.in/C2E63Gp",
+        "url_3": "https://premium.instaprimeofficial.com",
+        "url_4": "https://api.teamsp.org/instaprime/dive/",
+        "upi": {
+            "is_active": false,
+            "url": "https://telegram.me/Instaprime_premium_bot"
+        },
+        "paypal": {
+            "is_active": true,
+            "url": ""
+        }
     }
-  }
 }
