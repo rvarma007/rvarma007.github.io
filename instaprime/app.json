@@ -1,7 +1,7 @@
 {
     "update": {
-        "v1": 7,
-        "v2": 2,
+        "v1": 0,
+        "v2": 0,
         "clogs": "Base Version: 435.0.0.37.76\n\nBugs Fixed\n\nAdded: Pick Instants from Gallery. (Premium)\n\nAdded: Download Photos/Videos from Instants. (Premium)\n\nAdded: Send Audio as Voice Note — Pick any audio file from local storage and send it as a voice note in DMs. (Premium)\n\nAdded: Liquid Glass UI in Navigation Tabs.\n\nAdded: Change Like Animation Styles.\n\nAdded: Download GIFs / Images from Comments.\n\nAdded: Image to Text (OCR) in Comments — Extract text from images instantly with high accuracy. (Premium)\n\nFixed: Mark as Seen issues.\n\nFixed: Hide Chat issues.\n\nFixed: Fonts and Emojis in Chats.\n\nFixed: Story Looping Issues — Stories not moving to the next one.\n\nFixed: Reels Overflow Menu issues.\n\nFixed: Search Tab Icon.\n\nFixed: Explore Tab Icon.\n\nImproved: Some Flags Issues.\n\nImproved: Overall Stability and Performance. \n",
         "website": "https://t.me/+hyqw5Id9ytMwOGY1",
         "title": "",
